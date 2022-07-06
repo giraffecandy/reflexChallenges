@@ -16,7 +16,7 @@ import kotlin.random.Random
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        //tryGit
+
 
 
         super.onCreate(savedInstanceState)
@@ -166,74 +166,7 @@ class MainActivity : AppCompatActivity() {
                                             this@MainActivity,
                                             R.color.teal_200
                                         )
-                                    var blue = Random.nextInt(7)
-                                    when (blue) {
-                                        0 -> {
-                                            numberbutton2.isEnabled = true
-                                            numberbutton2.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        1 -> {
-                                            numberbutton3.isEnabled = true
-                                            numberbutton3.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        2 -> {
-                                            numberbutton4.isEnabled = true
-                                            numberbutton4.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        3 -> {
-                                            numberbutton5.isEnabled = true
-                                            numberbutton5.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        4 -> {
-                                            numberbutton6.isEnabled = true
-                                            numberbutton6.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        5 -> {
-                                            numberbutton7.isEnabled = true
-                                            numberbutton7.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        6 -> {
-                                            numberbutton8.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        7 -> {
-                                            numberbutton9.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
 
-                                    }
                                 }
                                 1 -> {
                                     numberbutton2.isEnabled = true
@@ -242,74 +175,7 @@ class MainActivity : AppCompatActivity() {
                                             this@MainActivity,
                                             R.color.teal_200
                                         )
-                                    var blue = Random.nextInt(7)
-                                    when (blue) {
-                                        0 -> {
-                                            numberbutton1.isEnabled = true
-                                            numberbutton1.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        1 -> {
-                                            numberbutton3.isEnabled = true
-                                            numberbutton3.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        2 -> {
-                                            numberbutton4.isEnabled = true
-                                            numberbutton4.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        3 -> {
-                                            numberbutton5.isEnabled = true
-                                            numberbutton5.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        4 -> {
-                                            numberbutton6.isEnabled = true
-                                            numberbutton6.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        5 -> {
-                                            numberbutton7.isEnabled = true
-                                            numberbutton7.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        6 -> {
-                                            numberbutton8.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        7 -> {
-                                            numberbutton9.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
 
-                                    }
                                 }
                                 2 -> {
                                     numberbutton3.isEnabled = true
@@ -318,75 +184,6 @@ class MainActivity : AppCompatActivity() {
                                             this@MainActivity,
                                             R.color.teal_200
                                         )
-                                    var blue = Random.nextInt(7)
-                                    when (blue) {
-                                        0 -> {
-                                            numberbutton1.isEnabled = true
-                                            numberbutton1.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        1 -> {
-                                            numberbutton2.isEnabled = true
-                                            numberbutton2.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-
-                                        2 -> {
-                                            numberbutton4.isEnabled = true
-                                            numberbutton4.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        3 -> {
-                                            numberbutton5.isEnabled = true
-                                            numberbutton5.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        4 -> {
-                                            numberbutton6.isEnabled = true
-                                            numberbutton6.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        5 -> {
-                                            numberbutton7.isEnabled = true
-                                            numberbutton7.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        6 -> {
-                                            numberbutton8.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        7 -> {
-                                            numberbutton9.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-
-                                    }
                                 }
                                 3 -> {
                                     numberbutton4.isEnabled = true
@@ -395,74 +192,7 @@ class MainActivity : AppCompatActivity() {
                                             this@MainActivity,
                                             R.color.teal_200
                                         )
-                                    var blue = Random.nextInt(8)
-                                    when (blue) {
-                                        0 -> {
-                                            numberbutton1.isEnabled = true
-                                            numberbutton1.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        1 -> {
-                                            numberbutton2.isEnabled = true
-                                            numberbutton2.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        2 -> {
-                                            numberbutton3.isEnabled = true
-                                            numberbutton3.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        3 -> {
-                                            numberbutton5.isEnabled = true
-                                            numberbutton5.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        4 -> {
-                                            numberbutton6.isEnabled = true
-                                            numberbutton6.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        5 -> {
-                                            numberbutton7.isEnabled = true
-                                            numberbutton7.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        6 -> {
-                                            numberbutton8.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
-                                        7 -> {
-                                            numberbutton9.isEnabled = true
-                                            numberbutton8.backgroundTintList =
-                                                ContextCompat.getColorStateList(
-                                                    this@MainActivity,
-                                                    R.color.purple_700
-                                                )
-                                        }
 
-                                    }
                                 }
                                 4 -> {
                                     numberbutton5.isEnabled = true
@@ -550,55 +280,7 @@ class MainActivity : AppCompatActivity() {
                             ContextCompat.getColorStateList(this@MainActivity, R.color.teal_200)
                     }
                 }
-                var blue = Random.nextInt(8)
-                when (blue) {
-                    0 -> {
-                        numberbutton1.isEnabled = true
-                        numberbutton1.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    1 -> {
-                        numberbutton2.isEnabled = true
-                        numberbutton2.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    2 -> {
-                        numberbutton3.isEnabled = true
-                        numberbutton3.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    3 -> {
-                        numberbutton4.isEnabled = true
-                        numberbutton4.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    4 -> {
-                        numberbutton5.isEnabled = true
-                        numberbutton5.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    5 -> {
-                        numberbutton6.isEnabled = true
-                        numberbutton6.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    6 -> {
-                        numberbutton7.isEnabled = true
-                        numberbutton7.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    7 -> {
-                        numberbutton8.isEnabled = true
-                        numberbutton8.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
-                    8 -> {
-                        numberbutton9.isEnabled = true
-                        numberbutton8.backgroundTintList =
-                            ContextCompat.getColorStateList(this@MainActivity, R.color.purple_700)
-                    }
 
-                }
 
 
 
@@ -621,294 +303,27 @@ class MainActivity : AppCompatActivity() {
                             numberbutton1.isEnabled = true
                             numberbutton1.backgroundTintList =
                                 ContextCompat.getColorStateList(this@MainActivity, R.color.teal_200)
-                            var blue = Random.nextInt(7)
-                            when (blue) {
-                                0 -> {
-                                    numberbutton2.isEnabled = true
-                                    numberbutton2.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                1 -> {
-                                    numberbutton3.isEnabled = true
-                                    numberbutton3.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                2 -> {
-                                    numberbutton4.isEnabled = true
-                                    numberbutton4.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                3 -> {
-                                    numberbutton5.isEnabled = true
-                                    numberbutton5.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                4 -> {
-                                    numberbutton6.isEnabled = true
-                                    numberbutton6.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                5 -> {
-                                    numberbutton7.isEnabled = true
-                                    numberbutton7.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                6 -> {
-                                    numberbutton8.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                7 -> {
-                                    numberbutton9.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
 
-                            }
+
+
                         }
                         1 -> {
                             numberbutton2.isEnabled = true
                             numberbutton2.backgroundTintList =
                                 ContextCompat.getColorStateList(this@MainActivity, R.color.teal_200)
-                            var blue = Random.nextInt(7)
-                            when (blue) {
-                                0 -> {
-                                    numberbutton1.isEnabled = true
-                                    numberbutton1.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                1 -> {
-                                    numberbutton3.isEnabled = true
-                                    numberbutton3.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                2 -> {
-                                    numberbutton4.isEnabled = true
-                                    numberbutton4.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                3 -> {
-                                    numberbutton5.isEnabled = true
-                                    numberbutton5.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                4 -> {
-                                    numberbutton6.isEnabled = true
-                                    numberbutton6.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                5 -> {
-                                    numberbutton7.isEnabled = true
-                                    numberbutton7.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                6 -> {
-                                    numberbutton8.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                7 -> {
-                                    numberbutton9.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
 
-                            }
                         }
                         2 -> {
                             numberbutton3.isEnabled = true
                             numberbutton3.backgroundTintList =
                                 ContextCompat.getColorStateList(this@MainActivity, R.color.teal_200)
-                            var blue = Random.nextInt(7)
-                            when (blue) {
-                                0 -> {
-                                    numberbutton1.isEnabled = true
-                                    numberbutton1.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                1 -> {
-                                    numberbutton2.isEnabled = true
-                                    numberbutton2.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
 
-                                2 -> {
-                                    numberbutton4.isEnabled = true
-                                    numberbutton4.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                3 -> {
-                                    numberbutton5.isEnabled = true
-                                    numberbutton5.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                4 -> {
-                                    numberbutton6.isEnabled = true
-                                    numberbutton6.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                5 -> {
-                                    numberbutton7.isEnabled = true
-                                    numberbutton7.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                6 -> {
-                                    numberbutton8.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                7 -> {
-                                    numberbutton9.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-
-                            }
                         }
                         3 -> {
                             numberbutton4.isEnabled = true
                             numberbutton4.backgroundTintList =
                                 ContextCompat.getColorStateList(this@MainActivity, R.color.teal_200)
-                            var blue = Random.nextInt(8)
-                            when (blue) {
-                                0 -> {
-                                    numberbutton1.isEnabled = true
-                                    numberbutton1.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                1 -> {
-                                    numberbutton2.isEnabled = true
-                                    numberbutton2.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                2 -> {
-                                    numberbutton3.isEnabled = true
-                                    numberbutton3.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                3 -> {
-                                    numberbutton5.isEnabled = true
-                                    numberbutton5.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                4 -> {
-                                    numberbutton6.isEnabled = true
-                                    numberbutton6.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                5 -> {
-                                    numberbutton7.isEnabled = true
-                                    numberbutton7.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                6 -> {
-                                    numberbutton8.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
-                                7 -> {
-                                    numberbutton9.isEnabled = true
-                                    numberbutton8.backgroundTintList =
-                                        ContextCompat.getColorStateList(
-                                            this@MainActivity,
-                                            R.color.purple_700
-                                        )
-                                }
 
-                            }
                         }
 //                        4 -> {
 //                            numberbutton5.isEnabled = true
